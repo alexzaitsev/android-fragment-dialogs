@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">FragmentDialogs</string>
+    <string name="toast_err_common">Common error occurred</string>
+    <string name="dlg_internet_required">Internet connection required</string>
+    <string name="btn_back">Back</string>
+    <string name="dlg_wait">Please wait&#8230;</string>
+
+</resources>

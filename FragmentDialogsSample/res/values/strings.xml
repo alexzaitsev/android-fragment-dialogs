@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FragmentDialogsExample</string>
+    <string name="btn_progress_enable">Create non cancellable progress</string>
+    <string name="btn_progress_enable_cancel">Create cancellable progress</string>
+    <string name="btn_finish_dialog">Create finish dialog</string>
+    <string name="btn_custom_dialog">Create custom dialog</string>
+    <string name="dlg_finish">Finish?</string>
+    <string name="dlg_no_net">Internet connection required</string>
+    <string name="dlg_custom">Custom dialog</string>
+    <string name="toast_ok">OK clicked!</string>
+    <string name="toast_cancel">Cancel clicked!</string>
+    <string name="btn_progress_hor_dialog">Create horizontal progress</string>
+    <string name="not_implemented">Not implemented yet</string>
+    
+    <string name="btn_single_choise_dialog">Create single choise dialog</string>
+    <string name="dlg_single_choise_title">Choose item</string>
+    <string-array name="dlg_single_choise_items">
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+    </string-array>
+    <string name="dlg_single_choise_btn">Clicked item:</string>
+
+</resources>

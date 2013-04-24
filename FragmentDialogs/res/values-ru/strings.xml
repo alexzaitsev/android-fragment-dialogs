@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="toast_err_common">Произошла общая ошибка</string>
+    <string name="dlg_internet_required">Необходимо подключение к интернету</string>
+    <string name="btn_back">Назад</string>
+    <string name="dlg_wait">Подождите пожалуйста&#8230;</string>
+
+</resources>

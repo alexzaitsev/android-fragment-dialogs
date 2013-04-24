@@ -9,12 +9,22 @@
 *.class
 
 # generated files
-bin/
-gen/
+FragmentDialogs/bin/
+FragmentDialogs/gen/
+FragmentDialogsSample/bin/
+FragmentDialogsSample/gen/
+FragmentDialogsTestTest/bin/
+FragmentDialogsTestTest/gen/
 
 # Local configuration file (sdk path, etc)
-local.properties
+FragmentDialogs/local.properties
+FragmentDialogsSample/local.properties
+FragmentDialogsTestTest/local.properties
 
 # Eclipse project files
-.classpath
-.project
+FragmentDialogs/.classpath
+FragmentDialogs/.project
+FragmentDialogsSample/.classpath
+FragmentDialogsSample/.project
+FragmentDialogsTest/.classpath
+FragmentDialogsTest/.project
